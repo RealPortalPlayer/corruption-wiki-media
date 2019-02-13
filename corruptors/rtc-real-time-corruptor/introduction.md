@@ -68,7 +68,7 @@ The features mentioned above WILL NOT WORK if RTC isn't allowed in the firewall.
 
 ** Why are certain RTC Cores running slow or RTC running slow in general **
 
-BizHawk is one hell of an emulator. It features a ton of emulator cors and tools to create Tool-Assisted Speedruns. In order for these speedruns to be accurate to the real-life systems they emulate, some of those do extra operations and disable optimizations that might cause faster but inaccurate emulation.
+BizHawk is one hell of an emulator. It features a ton of emulator cores and tools to create Tool-Assisted Speedruns. In order for these speedruns to be accurate to the real-life systems they emulate, some of those do extra operations and disable optimizations that might cause faster but inaccurate emulation.
 
 Some emulator cores are faster than others. QuickNes is generally faster than NesHawk for example.
 
